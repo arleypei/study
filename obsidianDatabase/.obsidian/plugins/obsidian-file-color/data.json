@@ -1,0 +1,64 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "F_GU4ucONR7TnQpgeMcBG",
+      "name": "red",
+      "value": "#e26e6e"
+    },
+    {
+      "id": "BzmpUsnqAH2KeoBkD2AU3",
+      "name": "green",
+      "value": "#83fc91"
+    },
+    {
+      "id": "sHGugKkCM7Vg-xlQySZob",
+      "name": "purple",
+      "value": "#afa0da"
+    },
+    {
+      "id": "LjEcAdyckoGpwwYKvohpE",
+      "name": "yellow",
+      "value": "#e0e8a1"
+    },
+    {
+      "id": "_C2AwIcCMODYdl1eLtmWn",
+      "name": "pink",
+      "value": "#f6caf7"
+    },
+    {
+      "id": "6L5aTrE98NOjEMiducg54",
+      "name": "cyan",
+      "value": "#94e4e6"
+    },
+    {
+      "id": "M1M24IN8KXCsoqX8gLOyU",
+      "name": "orange",
+      "value": "#e6c894"
+    },
+    {
+      "id": "_j1gIBsJlQspHvSTGYjLk",
+      "name": "blue",
+      "value": "#83b9ec"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "study/linux",
+      "color": "6L5aTrE98NOjEMiducg54"
+    },
+    {
+      "path": "study/network communication",
+      "color": "M1M24IN8KXCsoqX8gLOyU"
+    },
+    {
+      "path": "study/tools",
+      "color": "LjEcAdyckoGpwwYKvohpE"
+    },
+    {
+      "path": "study/programme",
+      "color": "sHGugKkCM7Vg-xlQySZob"
+    }
+  ]
+}

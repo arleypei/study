@@ -1,0 +1,37 @@
+{
+  "recentFiles": [
+    {
+      "basename": "基础知识",
+      "path": "study/linux/基础知识.md"
+    },
+    {
+      "basename": "命名空间",
+      "path": "study/programme/C++/命名空间.md"
+    },
+    {
+      "basename": "template_work_dairy",
+      "path": "templates/template_work_dairy.md"
+    },
+    {
+      "basename": "常见问题",
+      "path": "study/linux/常见问题.md"
+    },
+    {
+      "basename": "宏定义",
+      "path": "study/programme/C/宏定义.md"
+    },
+    {
+      "basename": "vscode",
+      "path": "study/tools/vscode.md"
+    },
+    {
+      "basename": "wsl",
+      "path": "study/tools/wsl.md"
+    },
+    {
+      "basename": "template_study_dairy",
+      "path": "templates/template_study_dairy.md"
+    }
+  ],
+  "omittedPaths": []
+}

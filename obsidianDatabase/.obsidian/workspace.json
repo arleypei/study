@@ -1,0 +1,308 @@
+{
+  "main": {
+    "id": "fd4882a2b0e841a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd73402a06d1e60c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c90ddd9939b2fe8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/linux/基础知识.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础知识"
+            }
+          },
+          {
+            "id": "eb4aeb496f90f91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/programme/C/宏定义.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "宏定义"
+            }
+          },
+          {
+            "id": "e3072d5fc05c080c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/linux/基础知识.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础知识"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "649d1ce3a85faa53",
+    "type": "split",
+    "children": [
+      {
+        "id": "589fa51fd687a0c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eae4869dffdf797a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "62a1c81418d4b3c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8ea3c1d61c2da76f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7c208d3131431f9c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "9e2e29be04fb3806",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "3566f1cfef295af9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1da0e05b3ba36ea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "77e6856185437dc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0198ff81bca2fa2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "study/study_dairy/wsl.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for wsl"
+            }
+          },
+          {
+            "id": "04751ac931772489",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "study/study_dairy/wsl.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from wsl"
+            }
+          },
+          {
+            "id": "d6bd64021ac6dc9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ddc2384668f2ddf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "study/study_dairy/wsl.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of wsl"
+            }
+          },
+          {
+            "id": "c7eae8fd10e59bce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8964d1397fd7b248",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:创建新看板": false
+    }
+  },
+  "active": "e3072d5fc05c080c",
+  "lastOpenFiles": [
+    "study/programme/C++/命名空间.md",
+    "templates/template_work_dairy.md",
+    "study/linux/常见问题.md",
+    "study/programme/C/宏定义.md",
+    "study/tools/vscode.md",
+    "study/tools/wsl.md",
+    "study/linux/基础知识.md",
+    "study/linux/attachments/Pasted image 20241107012647.png",
+    "study/linux/attachments/Pasted image 20241107012411.png",
+    "study/linux/attachments/Pasted image 20241107011949.png",
+    "study/linux/attachments/Pasted image 20241107011835.png",
+    "study/linux/attachments/Pasted image 20241107003730.png",
+    "study/programme/C",
+    "study/linux/attachments/Pasted image 20241103232141.png",
+    "study/linux/attachments/Pasted image 20241103231958.png",
+    "study/linux/attachments/Pasted image 20241103231949.png",
+    "study/linux/attachments/Pasted image 20241103231816.png",
+    "study/linux/attachments/Pasted image 20241103231729.png",
+    "study/linux/().md",
+    "templates/template_study_dairy.md",
+    "study/linux/attachments",
+    "study/tools/attachments",
+    "study/tools",
+    "study/programme/C++/Untitled Kanban.md",
+    "study/network communication/网络通信架构模式.md",
+    "study/OS/程序员的自我修养.md",
+    "study/linux",
+    "study/programme/C++/Untitled Kanban 1.md",
+    "study/programme/C++",
+    "study/study_dairy/2024-07-06-星期六.md",
+    "study/programme",
+    "templates/未命名思维导图.md",
+    "study/study_dairy/{{date}}.md",
+    "未命名.canvas",
+    "work",
+    "study/study_dairy",
+    "study",
+    "未命名.md",
+    "2024-07-06.md",
+    "未命名看板.md",
+    "OS/未命名.md",
+    "未命名思维导图 1.md",
+    "系统.canvas",
+    "202407042302.md",
+    "2024-07-04.md",
+    "未命名 1.canvas",
+    "20240704.md"
+  ]
+}
